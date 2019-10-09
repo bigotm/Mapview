@@ -101,7 +101,7 @@ Si vous voulez stopper le programme sans fermer les applications appuyer la touc
 
 # 6) Etape pour déployer Mapview sur un autre pc :
 1)	Installer Qliksense et Autoit (gratuit)
-2)	Installer google drive sur le pc ( mail :ldacetramax  @gmail.com , mdp : !password !22
+2)	Installer google drive sur le pc ( mail :ldacetramax@gmail.com , mdp : *************
 3)	Une fois les fichiers installés ouvrer le google drive et qlik sense
 4)	Connecté vous a qliksense vous arrivez sur le dossier avec tout les projet 
 5)	Faites copier-coller du fichier Mapview_V4.qvf situer dans google drive :
